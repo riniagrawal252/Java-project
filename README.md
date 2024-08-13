@@ -5,7 +5,7 @@ Features:
 
 Student Registration: Register new students and manage their personal details.
 
-Marks Management: Create, update, and delete marks.
+Student Management: Create, update and delete report.
 
 View Reports: Generate and view student performance reports
 
